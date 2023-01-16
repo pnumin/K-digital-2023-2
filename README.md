@@ -19,6 +19,6 @@
 + pnusw46	김형찬
 + pnusw47	고승환 : https://github.com/KSHNX2
 + pnusw48	성동환 : https://github.com/SungDongHwan
-+ pnusw50	조영일
++ pnusw50	조영일 
 + pnusw51	양철민 : https://github.com/ycm7784
-+ pnusw53	박준영 
++ pnusw53	박준영 : https://github.com/parkjunyeongg 
