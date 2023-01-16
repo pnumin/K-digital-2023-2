@@ -5,7 +5,7 @@
 + pnusw32	김나현
 + pnusw33	고건
 + pnusw34	강유현
-+ pnusw35	노우권
++ pnusw35	노우권 : http://github.com/KHEN-ROE
 + pnusw36	강혜진
 + pnusw37	구민지
 + pnusw38	김단우
