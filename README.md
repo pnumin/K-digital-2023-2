@@ -8,7 +8,7 @@
 + pnusw35	노우권
 + pnusw36	강혜진
 + pnusw37	구민지
-+ pnusw38	김단우
++ pnusw38	김단우 : https://github.com/DANU011
 + pnusw39	오세훈
 + pnusw40	이재화
 + pnusw41	장우영
