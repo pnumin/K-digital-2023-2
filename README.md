@@ -20,5 +20,5 @@
 + pnusw47	고승환
 + pnusw48	성동환
 + pnusw50	조영일
-+ pnusw51	양철민
++ pnusw51	양철민 : https://github.com/ycm7784
 + pnusw53	박준영 
