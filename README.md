@@ -11,7 +11,7 @@
 + pnusw38	김단우
 + pnusw39	오세훈
 + pnusw40	이재화
-+ pnusw41	장우영
++ pnusw41	장우영 :https://github.com/JWY0717
 + pnusw42	김상욱
 + pnusw43	노태현
 + pnusw44	김현우
