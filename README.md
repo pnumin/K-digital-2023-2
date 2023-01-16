@@ -15,7 +15,7 @@
 + pnusw42	김상욱
 + pnusw43	노태현
 + pnusw44	김현우
-+ pnusw45	강병민 https://github.com/bm20050
++ pnusw45	강병민 : https://github.com/bm20050
 + pnusw46	김형찬
 + pnusw47	고승환
 + pnusw48	성동환
