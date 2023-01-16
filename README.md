@@ -10,7 +10,7 @@
 + pnusw37	구민지
 + pnusw38	김단우
 + pnusw39	오세훈
-+ pnusw40	이재화
++ pnusw40	이재화 :https://github.com/jennjem003/
 + pnusw41	장우영
 + pnusw42	김상욱
 + pnusw43	노태현
