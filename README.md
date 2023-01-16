@@ -12,7 +12,7 @@
 + pnusw39	오세훈
 + pnusw40	이재화
 + pnusw41	장우영
-+ pnusw42	김상욱 + : https://kimsangwook57.github.io/html/
++ pnusw42	김상욱 + : https://github.com/KimSangWook57
 + pnusw43	노태현
 + pnusw44	김현우
 + pnusw45	강병민
