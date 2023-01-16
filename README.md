@@ -6,7 +6,7 @@
 + pnusw33	고건
 + pnusw34	강유현
 + pnusw35	노우권
-+ pnusw36	강혜진
++ pnusw36	강혜진 https://github.com/beeguriri
 + pnusw37	구민지
 + pnusw38	김단우
 + pnusw39	오세훈
