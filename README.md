@@ -4,7 +4,7 @@
 + pnusw31	장희제
 + pnusw32	김나현
 + pnusw33	고건
-+ pnusw34	강유현; https://github.com/Dnadit
++ pnusw34	강유현: https://github.com/Dnadit
 + pnusw35	노우권
 + pnusw36	강혜진
 + pnusw37	구민지
