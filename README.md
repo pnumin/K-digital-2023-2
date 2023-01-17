@@ -16,9 +16,9 @@
 + pnusw43	노태현
 + pnusw44	김현우 : https://github.com/hwk44
 + pnusw45	강병민 : https://github.com/bm20050 
-+ pnusw46	김형찬
++ pnusw46	김형찬 : https://github.com/HyeongChank/HTML
 + pnusw47	고승환 : https://github.com/KSHNX2
 + pnusw48	성동환 : https://github.com/SungDongHwan
 + pnusw50	조영일 : https://github.com/Young1ll
 + pnusw51	양철민 : https://github.com/ycm7784
-+ pnusw53	박준영 : https://github.com/parkjunyeongg 
++ pnusw53	박준영 : https://github.com/parkjunyeongg  
