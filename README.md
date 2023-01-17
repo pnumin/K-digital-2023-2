@@ -14,7 +14,7 @@
 + pnusw41	장우영 :https://github.com/JWY0717
 + pnusw42	김상욱 : https://github.com/KimSangWook57
 + pnusw43	노태현
-+ pnusw44	김현우
++ pnusw44	김현우 : https://github.com/hwk44
 + pnusw45	강병민
 + pnusw46	김형찬
 + pnusw47	고승환 : https://github.com/KSHNX2
