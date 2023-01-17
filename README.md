@@ -1,8 +1,8 @@
 # K-Digital 2기 
 ## AI 활용 빅데이터분석 풀스택웹서비스 SW 개발자 양성과정 2기
 
-+ pnusw31	장희제
-+ pnusw32	김나현 https://github.com/nh1531
++ pnusw31	장희제 : https://github.com/Bogol-E
++ pnusw32	김나현 : https://github.com/nh1531 
 + pnusw33	고건
 + pnusw34	강유현
 + pnusw35	노우권
