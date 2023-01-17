@@ -6,8 +6,8 @@
 + pnusw33	고건
 + pnusw34	강유현
 + pnusw35	노우권
-+ pnusw36	강혜진
-+ pnusw37	구민지 : https://github.com/Erica-Ku
++ pnusw36	강혜진 : https://github.com/beeguriri
++ pnusw37	구민지 : https://github.com/Erica-Ku 
 + pnusw38	김단우
 + pnusw39	오세훈
 + pnusw40	이재화 :https://github.com/jennjem003/
