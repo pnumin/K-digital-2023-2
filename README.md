@@ -8,10 +8,10 @@
 + pnusw35	노우권 : http://github.com/KHEN-ROE
 + pnusw36	강혜진 : https://github.com/beeguriri
 + pnusw37	구민지 : https://github.com/Erica-Ku 
-+ pnusw38	김단우
++ pnusw38	김단우 : https://github.com/DANU011
 + pnusw39	오세훈 : https://github.com/oshosh9595/
 + pnusw40	이재화 : https://github.com/jennjem003/
-+ pnusw41	장우영 : https://github.com/JWY0717
++ pnusw41	장우영 : https://github.com/JWY0717 
 + pnusw42	김상욱 : https://github.com/KimSangWook57
 + pnusw43	노태현
 + pnusw44	김현우 : https://github.com/hwk44
