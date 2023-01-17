@@ -4,7 +4,7 @@
 + pnusw31	장희제 : https://github.com/Bogol-E
 + pnusw32	김나현 : https://github.com/nh1531 
 + pnusw33	고건
-+ pnusw34	강유현
++ pnusw34	강유현: https://github.com/Dnadit
 + pnusw35	노우권
 + pnusw36	강혜진 : https://github.com/beeguriri
 + pnusw37	구민지 : https://github.com/Erica-Ku 
